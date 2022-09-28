@@ -230,7 +230,7 @@ transition: all 250ms ease-in-out 0s;
      height: auto;
    }
    
-     .container {
+     .container0 {
        position: relative;
        text-align: center;
        color: black;
@@ -350,19 +350,7 @@ transition: all 250ms ease-in-out 0s;
    }
    
      
-   footer {
-    padding: 65px;
-    margin-top: 27px;
-    color: #ffffff;
-    background-color: #020001;
-    text-align: -webkit-center;
-    display: flow-root;
-    width: 100%;
-   }
-   footer a{
-    color: white;
-    text-decoration: none;
-   }
+
 
    /* GLOBAL VARIABLES */
 :root {
@@ -472,7 +460,7 @@ justify-items: center;
 .text2{
 font-size: small;
 }
-.container{
+.container0{
   background-position: 50%;
 }
 .centered{
