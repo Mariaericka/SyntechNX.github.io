@@ -228,7 +228,7 @@ transition: all 250ms ease-in-out 0s;
      height: auto;
    }
    
-     .container {
+     .container0 {
        position: relative;
        text-align: center;
        color: black;
@@ -335,19 +335,7 @@ transition: all 250ms ease-in-out 0s;
        letter-spacing: .1rem;
    }
    
-   footer {
-    padding: 65px;
-    margin-top: 27px;
-    color: #ffffff;
-    background-color: #020001;
-    text-align: -webkit-center;
-    display: flow-root;
-    width: 100%;
-   }
-   footer a{
-    color: white;
-    text-decoration: none;
-   }
+
   .container4{
     position:relative;
     width: 100%;
@@ -464,7 +452,7 @@ transition: all 250ms ease-in-out 0s;
      .text2{
      font-size: small;
      }
-     .container{
+     .container0{
        background-position: 50%;
      }
      .centered{
