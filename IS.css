@@ -136,7 +136,7 @@
      height: auto;
    }
    
-     .container {
+     .container0 {
        position: relative;
        text-align: center;
        color: white;
@@ -419,7 +419,7 @@ transition: all 250ms ease-in-out 0s;
      .fa-bars{
        visibility: visible;
      }
-.container{
+.container0{
   background-position: 50%;
   font-size: 37px;
 }
