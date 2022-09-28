@@ -1,3 +1,15 @@
+footer {
+  padding: 65px;
+  margin-top: 27px;
+  color: #ffffff;
+  background-color: #020001;
+  text-align: -webkit-center;
+display: flow-root;
+  width: 100%;
+ }
+
+
+
 /*==================== 
 	Footer 
 ====================== */
