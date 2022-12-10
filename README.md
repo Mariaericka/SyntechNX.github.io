@@ -1,2 +1,2 @@
 # Syntechnx.github.io
-Website for IT company
+static Website for IT company
